@@ -11,6 +11,6 @@ class Dog
   end 
   
   def print.all
-    @@all.each{|i| puts i}
+    @@all.each {|i| puts i}
   end 
 end 
